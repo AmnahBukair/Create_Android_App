@@ -22,4 +22,7 @@ After launching the Device, Drug and Drop the .apk file
 ![image](https://user-images.githubusercontent.com/66624381/89361051-e57ef380-d6d2-11ea-9b6e-fffaf44c419a.png)  
 
 Pull screen down to up and you will find the installed app (ControlPanel)  
-![Screenshot (301)_LI](https://user-images.githubusercontent.com/66624381/89362280-1e6c9780-d6d6-11ea-90ed-1827324b81f7.jpg)  
+![Screenshot (301)_LI](https://user-images.githubusercontent.com/66624381/89362280-1e6c9780-d6d6-11ea-90ed-1827324b81f7.jpg)    
+  
+
+![image](https://user-images.githubusercontent.com/66624381/89363160-35ac8480-d6d8-11ea-9bd6-d1f44318e44e.png)
