@@ -13,3 +13,13 @@ Use [MIT App Inventor.](https://appinventor.mit.edu/)
 ### 3. Preview the app  
 Either by scanning QR code from endroid device, or using [Android Studio.](https://developer.android.com/studio?hl=es)  
 I will go with the second choice.  
+After installation, Go to 'AVD Manager', select a phone device and download it.  
+
+![image](https://user-images.githubusercontent.com/66624381/89360268-8b7d2e80-d6d0-11ea-9e96-441973994ff7.png) 
+
+After launching the Device, Drug and Drop the .apk file  
+
+![image](https://user-images.githubusercontent.com/66624381/89361051-e57ef380-d6d2-11ea-9b6e-fffaf44c419a.png)  
+
+Pull screen down to up and you will find the installed app (ControlPanel)  
+![Screenshot (301)_LI](https://user-images.githubusercontent.com/66624381/89362280-1e6c9780-d6d6-11ea-90ed-1827324b81f7.jpg)  
